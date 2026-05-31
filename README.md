@@ -23,7 +23,7 @@ A comprehensive Python implementation of fundamental linear algebra operations u
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/linear-algebra-gauss-jordan.git
+git clone https://github.com/ebrahim3185/linear-algebra-gauss-jordan.git
 
 # Navigate to project directory
 cd linear-algebra-gauss-jordan
